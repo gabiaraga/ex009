@@ -1,0 +1,68 @@
+body{
+  margin: 100px;
+  background-color: rgb(243, 228, 228);
+  
+  }
+  
+  .container {
+  display: flex;
+  height: 50px;
+
+  
+  }
+  
+  .i1{
+      width: 100%;
+      margin:2px;
+      text-align: center; 
+      color: aliceblue;
+      border: 3px solid white;
+      background-color: rgb(92, 20, 20);
+  
+  }
+  
+  .i2{
+      width: 700px;
+      margin:2px;
+      text-align: center; 
+      color: aliceblue; 
+      border: 3px solid white;
+      background-color:  rgb(92, 20, 20);
+  
+  }
+  
+  .i3{
+      width: 700px;
+      margin:2px;
+      text-align: center; 
+      color: aliceblue; 
+      border: 3px solid white;
+      background-color:  rgb(92, 20, 20);
+  }
+  
+  .i4{
+      width: 700px;
+      margin:2px;
+      text-align: center;
+      color: aliceblue;  
+      border: 3px solid white;
+      background-color:  rgb(92, 20, 20);
+  }
+  
+  .i5{
+      width: 700px;
+      margin:2px;
+      text-align: center; 
+      color: aliceblue; 
+      border: 3px solid white  ;
+      background-color:  rgb(92, 20, 20) ;
+  }
+  
+  .i6{
+      width: 700px;
+      margin: 2px;
+      text-align: center; 
+      color: aliceblue; 
+      border: 3px solid white;
+      background-color:  rgb(92, 20, 20);
+  }

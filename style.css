@@ -1,0 +1,57 @@
+body{
+  margin: 0px;
+  padding: 10px;
+  box-sizing: border-box;
+  background: white;
+}
+
+.flexbox1{ 
+height: 30vh;
+display: flex; 
+justify-content: space-between;
+flex-wrap: wrap;
+align-content: space-around ; 
+flex-direction: row;
+}
+
+.flexbox2{
+  height: 30vh;
+  display: flex; 
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-content: space-around ; 
+  flex-direction: row;
+}
+
+.flexbox3{
+  height: 30vh;
+display: flex; 
+justify-content: space-between;
+flex-wrap: wrap;
+align-content: space-around ; 
+flex-direction: row;
+
+}
+
+
+.flex-item{
+  width: 200px;
+  height: 150px;
+  background:white;
+  border:  2px solid red;
+  box-shadow: 1px 1px 0px red,
+  -2px 2px 0px red,
+  -3px 3px 0px red,
+  -4px 4px 0px red,
+  -5px 5px 0px red,
+  -6px 6px 0px red,
+  -7px 7px 0px red,
+  -8px 8px 0px red,
+  -9px 9px 0px red;
+  margin: 10px;
+}
+
+
+.grande{
+flex-grow: 1;
+}
